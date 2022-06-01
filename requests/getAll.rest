@@ -1,1 +1,7 @@
-GET http://localhost:3001/
+POST https://murmuring-cove-72800.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "Heyooo",
+    "number": "6869686"
+}
